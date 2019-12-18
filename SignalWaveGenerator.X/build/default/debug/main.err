@@ -1,0 +1,4 @@
+Warning[207] D:\DIVERSE\ETTI\MM\PROIECT\SIGNALWAVEGENERATOR\SIGNALWAVEGENERATOR.X\MAIN.ASM 8 : Found label after column 1. (main)
+Message[302] D:\DIVERSE\ETTI\MM\PROIECT\SIGNALWAVEGENERATOR\SIGNALWAVEGENERATOR.X\MAIN.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIVERSE\ETTI\MM\PROIECT\SIGNALWAVEGENERATOR\SIGNALWAVEGENERATOR.X\MAIN.ASM 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] D:\DIVERSE\ETTI\MM\PROIECT\SIGNALWAVEGENERATOR\SIGNALWAVEGENERATOR.X\MAIN.ASM 22 : Found label after column 1. (loop)
